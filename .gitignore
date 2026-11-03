@@ -1,0 +1,11 @@
+target/
+out/
+build/
+.idea/
+*.iml
+*.class
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
